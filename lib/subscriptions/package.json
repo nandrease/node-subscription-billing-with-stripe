@@ -7,5 +7,9 @@
     "test": "mocha -w"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "underscore": "^1.10.2"
+  }
 }

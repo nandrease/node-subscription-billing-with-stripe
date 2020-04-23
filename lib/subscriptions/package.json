@@ -1,0 +1,11 @@
+{
+  "name": "subscriptions",
+  "version": "1.0.0",
+  "description": "The subscription for Space Shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "space-shop",
+  "version": "1.0.0",
+  "description": "A node shop with stripe",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "keywords": [
+    "Node",
+    "Mocha",
+    "Stripe"
+  ],
+  "author": "nandrease",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.1",
+    "sinon": "^9.0.2"
+  }
+}

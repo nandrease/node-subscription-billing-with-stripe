@@ -1,5 +1,8 @@
 # Node tests with Stripe billing
 
+This is a project build with unit tests using BDD pattern.
+Tests include subscriptions library with Stripe
+
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `npm test` to execute the unit tests vith Mocha.

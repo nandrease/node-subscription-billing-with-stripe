@@ -14,7 +14,7 @@
   "author": "nandrease",
   "license": "ISC",
   "dependencies": {
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   },
   "devDependencies": {
     "mocha": "^7.1.1",
